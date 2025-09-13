@@ -12,10 +12,3 @@
 👤 **Sahand Sadeghi**
 
 * Github: [@sahand1807](https://github.com/sahand1807)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
