@@ -35,7 +35,7 @@ agent_moving = False
 feedback_text = ""
 
 # ================= Load images =================
-mine_img = pygame.image.load("mine.png").convert_alpha()  # supports transparency
+mine_img = pygame.image.load("./img/mine.png").convert_alpha()  # supports transparency
 mine_img = pygame.transform.scale(mine_img, (80, 80))  # bigger mine
 
 # Buttons

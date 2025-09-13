@@ -24,13 +24,13 @@ feedback_font = pygame.font.SysFont(None, 64)
 clock = pygame.time.Clock()
 
 # ================= Load Images =================
-robot_img = pygame.image.load("robot.png")
+robot_img = pygame.image.load("./img/robot.png")
 robot_img = pygame.transform.scale(robot_img, (100, 100)) 
 
 object_imgs = [
-    pygame.transform.scale(pygame.image.load("fragile_light.png"), (100, 100)),
-    pygame.transform.scale(pygame.image.load("medium_rigid.png"), (100, 100)),
-    pygame.transform.scale(pygame.image.load("heavy_rigid.png"), (100, 100))
+    pygame.transform.scale(pygame.image.load("./img/fragile_light.png"), (100, 100)),
+    pygame.transform.scale(pygame.image.load("./img/medium_rigid.png"), (100, 100)),
+    pygame.transform.scale(pygame.image.load("./img/heavy_rigid.png"), (100, 100))
 ]
 
 # ================= Positions =================
