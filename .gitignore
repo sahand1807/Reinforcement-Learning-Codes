@@ -1,4 +1,4 @@
-./Bandit/venv/
+./Bandit/.venv/
 env/
 __pycache__/
 *.pyc
